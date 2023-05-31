@@ -7,7 +7,7 @@ A PyTorch implementation of "A Neural Algorithm of Artistic Style".
 
 <div align="center">
   <img src="./images/content/lyon.jpg" alt="Content image" height="150" />
-  <img src="./images/style/starry_night.jpg" alt="Style image" height="150" />
+  <img src="./images/style/starry-night.jpg" alt="Style image" height="150" />
   <img src="./images/final/starry-night/lyon-starry-night.jpg" alt="Output image" height="150"/>
 </div>
 
